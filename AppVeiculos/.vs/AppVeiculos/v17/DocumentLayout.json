@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|c:\\users\\labsfiap\\documents\\github\\cp2_csharp\\appveiculos\\appveiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|solutionrelative:appveiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|c:\\users\\labsfiap\\documents\\github\\cp2_csharp\\appveiculos\\appveiculos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|solutionrelative:appveiculos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|c:\\users\\labsfiap\\documents\\github\\cp2_csharp\\appveiculos\\appveiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|solutionrelative:appveiculos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|c:\\users\\labsfiap\\documents\\github\\cp2_csharp\\appveiculos\\appveiculos\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|solutionrelative:appveiculos\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|c:\\users\\labsfiap\\documents\\github\\cp2_csharp\\appveiculos\\appveiculos\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0EFC326-F217-4E80-8401-0FCFCAA77618}|AppVeiculos\\AppVeiculos.csproj|solutionrelative:appveiculos\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Moto.cs",
+              "RelativeDocumentMoniker": "AppVeiculos\\Moto.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Moto.cs",
+              "RelativeToolTip": "AppVeiculos\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:10:09.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Caminhao.cs",
+              "RelativeDocumentMoniker": "AppVeiculos\\Caminhao.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Caminhao.cs",
+              "RelativeToolTip": "AppVeiculos\\Caminhao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:09:27.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Carro.cs",
+              "RelativeDocumentMoniker": "AppVeiculos\\Carro.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Carro.cs",
+              "RelativeToolTip": "AppVeiculos\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:08:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Veiculo.cs",
+              "RelativeDocumentMoniker": "AppVeiculos\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Veiculo.cs",
+              "RelativeToolTip": "AppVeiculos\\Veiculo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:06:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Program.cs",
+              "RelativeDocumentMoniker": "AppVeiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Documents\\GitHub\\cp2_CSharp\\AppVeiculos\\AppVeiculos\\Program.cs",
+              "RelativeToolTip": "AppVeiculos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:06:19.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

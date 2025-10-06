@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\bin\Debug\net8.0\AppVeiculos.exe
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\bin\Debug\net8.0\AppVeiculos.deps.json
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\bin\Debug\net8.0\AppVeiculos.runtimeconfig.json
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\bin\Debug\net8.0\AppVeiculos.dll
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\bin\Debug\net8.0\AppVeiculos.pdb
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\AppVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\AppVeiculos.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\AppVeiculos.AssemblyInfo.cs
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\AppVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\AppVeiculos.sourcelink.json
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\AppVeiculos.dll
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\refint\AppVeiculos.dll
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\AppVeiculos.pdb
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\AppVeiculos.genruntimeconfig.cache
+C:\Users\labsfiap\Documents\GitHub\cp2_CSharp\AppVeiculos\AppVeiculos\obj\Debug\net8.0\ref\AppVeiculos.dll
